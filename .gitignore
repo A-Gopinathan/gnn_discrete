@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.npz
+*.npy
+*.log
+*.lock
+*.tmp
+.tmp_*
+*.png
+*.pdf
+benchmark/
+large_scale/
+.env
+.env.*
