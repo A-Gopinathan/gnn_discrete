@@ -1,0 +1,7 @@
+# Preserve exact bytes of sources fingerprinted by the existing checkpoints.
+2d_ising/models.py -text
+3d_potts/potts_gnn.py -text
+3d_potts/potts_model.cpp -text
+3d_potts/potts_model.hpp -text
+3d_potts/util.cpp -text
+3d_potts/util.hpp -text

@@ -14,3 +14,12 @@ benchmark/
 large_scale/
 .env
 .env.*
+*.o
+*.so
+potts_dynamics_ed
+runs/
+campaigns/
+results_*/
+backup/
+*.bin
+*.npz.tmp
